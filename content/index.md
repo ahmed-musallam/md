@@ -1,7 +1,7 @@
 ---
 title: "Home | AEM Boilerplate"
 description: "Use this template repository as the starting point for new AEM projects."
-json-ld: {"@context":{"name":"http://xmlns.com/foaf/0.1/name","homepage":{"@id":"http://xmlns.com/foaf/0.1/workplaceHomepage","@type":"@id"},"Person":"http://xmlns.com/foaf/0.1/Person"},"@id":"https://me.example.com","@type":"Person","name":"John Smith","homepage":"https://www.example.com/"}
+json-ld: `{"@context":{"name":"http://xmlns.com/foaf/0.1/name","homepage":{"@id":"http://xmlns.com/foaf/0.1/workplaceHomepage","@type":"@id"},"Person":"http://xmlns.com/foaf/0.1/Person"},"@id":"https://me.example.com","@type":"Person","name":"John Smith","homepage":"https://www.example.com/"}`
 ---
 
 ![Decorative double Helix](https://main--my-eds-site--ranjith1234.hlx.page/media_1dc0a2d290d791a050feb1e159746f52db392775a.jpeg)
