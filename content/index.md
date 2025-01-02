@@ -1,7 +1,7 @@
 ---
 title: "Home | AEM Boilerplate"
 description: "Use this template repository as the starting point for new AEM projects."
-json-ld: '{"@context":{"name":"http://xmlns.com/foaf/0.1/name","homepage":{"@id":"http://xmlns.com/foaf/0.1/workplaceHomepage","@type":"@id"},"Person":"http://xmlns.com/foaf/0.1/Person"},"@id":"https://me.example.com","@type":"Person","name":"John Smith","homepage":"https://www.example.com/"}'
+json-ld: '{&quot;@context&quot;:{&quot;name&quot;:&quot;http://xmlns.com/foaf/0.1/name&quot;,&quot;homepage&quot;:{&quot;@id&quot;:&quot;http://xmlns.com/foaf/0.1/workplaceHomepage&quot;,&quot;@type&quot;:&quot;@id&quot;},&quot;Person&quot;:&quot;http://xmlns.com/foaf/0.1/Person&quot;},&quot;@id&quot;:&quot;https://me.example.com&quot;,&quot;@type&quot;:&quot;Person&quot;,&quot;name&quot;:&quot;John Smith&quot;,&quot;homepage&quot;:&quot;https://www.example.com/&quot;}'
 something-else: 'test'
 ---
 
